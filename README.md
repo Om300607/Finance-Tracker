@@ -36,10 +36,12 @@ Track daily income and expenses, set savings goals, and see where your money goe
 
 
 ### Visual analytics
-![Analytics](screenshots/analytics.png)
+<img width="1916" height="1023" alt="image" src="https://github.com/user-attachments/assets/9f897bbc-d52d-4127-bb72-f901d0535649" />
+
 
 ### Savings goals
-![Savings goals](screenshots/goals.png)
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/780e6acc-ae4c-40b5-b40f-271859b9204a" />
+
 
 ---
 
