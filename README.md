@@ -32,7 +32,8 @@ Track daily income and expenses, set savings goals, and see where your money goe
 </table>
 
 ### Dashboard & transactions
-![Transactions](screenshots/transactions.png)
+<img width="1912" height="1021" alt="image" src="https://github.com/user-attachments/assets/5e5e0e59-4b1d-452d-822a-135f9d81c332" />
+
 
 ### Visual analytics
 ![Analytics](screenshots/analytics.png)
