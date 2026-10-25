@@ -19,17 +19,8 @@ Track daily income and expenses, set savings goals, and see where your money goe
 ## 📸 Screenshots
 
 ### Sign in & create account
-<table>
-  <tr>
-    <td width="50%"><img src=<img width="1067" height="745" alt="image" src="https://github.com/user-attachments/assets/0c97df92-1817-4b81-8302-378b9b20b556" />
- alt="Login screen"/></td>
-    <td width="50%"><img src="screenshots/register.png" alt="Create account screen"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Login</b></td>
-    <td align="center"><b>Create account</b></td>
-  </tr>
-</table>
+<img width="1065" height="750" alt="image" src="https://github.com/user-attachments/assets/7960cafc-e98f-4690-b925-53de31fbfed8" />
+
 
 ### Dashboard & transactions
 <img width="1912" height="1021" alt="image" src="https://github.com/user-attachments/assets/5e5e0e59-4b1d-452d-822a-135f9d81c332" />
