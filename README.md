@@ -21,7 +21,8 @@ Track daily income and expenses, set savings goals, and see where your money goe
 ### Sign in & create account
 <table>
   <tr>
-    <td width="50%"><img src="screenshots/login.png" alt="Login screen"/></td>
+    <td width="50%"><img src=<img width="1067" height="745" alt="image" src="https://github.com/user-attachments/assets/0c97df92-1817-4b81-8302-378b9b20b556" />
+ alt="Login screen"/></td>
     <td width="50%"><img src="screenshots/register.png" alt="Create account screen"/></td>
   </tr>
   <tr>
